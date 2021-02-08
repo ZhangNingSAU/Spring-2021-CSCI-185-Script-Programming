@@ -215,9 +215,6 @@ Note: The slash / after the folder name is added by tab completion automatically
 + You should try to avoid using rm which permanently removes files or folders.
 
 
-[Homework 3](https://github.com/ZhangNingSAU/Spring-2020-CSCI-185-Script-Programming/blob/master/Homework/HW3.md)
-
-
 
 
 
