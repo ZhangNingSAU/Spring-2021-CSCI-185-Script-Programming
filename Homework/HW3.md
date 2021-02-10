@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2020
+# CSCI 185 Spring 2021
 # Homework 3
-# Start: 01/29/2020
-# Due: 02/05/2020
+
+# Due: 11:59pm 02/17/2020
 
 # Step 1: Please use the correct Unix commands to complete the following five tasks in your terminal:
 
