@@ -13,3 +13,5 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 # Week 3
 ## Monday 02/08/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/2aac903bfee045e3bf18e5f5b3d5f58d/playback
+## Wednesday 02/10/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/1986133182b343e398994c919edaa595/playback
