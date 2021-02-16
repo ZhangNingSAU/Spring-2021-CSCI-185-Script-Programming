@@ -15,3 +15,9 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/2aac903bfee045e3bf18e5f5b3d5f58d/playback
 ## Wednesday 02/10/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/1986133182b343e398994c919edaa595/playback
+
+# Week 4
+## Monday 02/15/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/e50a8b8fb0df4614a882a54d5cfa4fed/playback
+## Wednesday 02/17/2021
+Quiz 1, no class.
