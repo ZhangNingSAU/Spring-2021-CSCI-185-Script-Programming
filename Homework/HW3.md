@@ -3,7 +3,7 @@
 
 # Due: 11:59pm 02/17/2020
 
-# Step 1: Please use the correct Unix commands to complete the following five tasks in your terminal:
+# Step 1: Please use the correct Unix commands to complete the following eight tasks in your terminal:
 
 ## Q1. Create a new directory called csci185_hw3 in your home directory.
 
