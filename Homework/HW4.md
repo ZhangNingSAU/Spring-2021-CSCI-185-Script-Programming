@@ -1,9 +1,9 @@
-# CSCI 185 Spring 2020
+# CSCI 185 Spring 2021
 # Homework 4
-# Start: 02/05/2020
-# Due: 02/12/2020
+# 
+# Due: 11:59pm 03/01/2021
 
-# Step 1: Please use the correct Unix commands to complete the following six tasks in your terminal:
+# Step 1: Please use the correct Bash commands to complete the following six tasks in your terminal:
 
 ## Q1. Create a new directory called csci185_hw4 in your home directory.
 
