@@ -160,11 +160,26 @@ MANUAL SECTIONS
 + First we’ll cover searching through text files .
 + Let’s download a list of the names of the states in the US (states.txt), which you can find in the following link: http://seankross.com/notes/states.txt
 
-note: you can use either the webbrowser or the following command to download it.
+  - note: 
+    + You can use either the webbrowser or the following command to download it.
 
-~~~~
-wget "http://seankross.com/notes/states.txt"
-~~~~
+    ~~~~
+    wget "http://seankross.com/notes/states.txt"
+    ~~~~
+
+    + To install wget on MacOS, you need to install brew first, then wget
+    
+    ~~~
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    brew install wget
+    ~~~
+    
+    + To install wget on Ubuntu
+    
+    ~~~
+    apt install wget
+    ~~~
+
 
 + Let’s take a look at this file. This file looks basically how you would expect it to look.
 + For now all you need to know is that text data are called strings. A string could be a word, a sentence, a book, or a file or folder name.
