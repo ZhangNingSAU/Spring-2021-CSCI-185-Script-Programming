@@ -189,6 +189,7 @@ MANUAL SECTIONS
 + One of the most elective ways to search through strings is to use **regular expressions**.
 + **Regular expressions** are strings that define **patterns** in other strings.
 + You can use regular expressions to **search** for a sub-string contained within a larger string, or to **replace** one part of a string with another string.
++ [One tutorial](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference?redirectedfrom=MSDN)
 
 ### grep
 
