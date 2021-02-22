@@ -392,6 +392,7 @@ echo "#%&-=***=-&%#" >> small.txt
 
 ### Summary
 + **grep** and **egrep** can be used along with **regular expressions** to search for patterns of text in a file.
+  - [grep vs. egrep](https://www.tecmint.com/difference-between-grep-egrep-and-fgrep-in-linux/)
 + **Metacharacters** are used in regular expressions to describe patterns of characters.
 + **find** can be used to search for the names of files in a directory. 
 
