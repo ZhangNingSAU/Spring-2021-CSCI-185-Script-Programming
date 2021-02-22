@@ -333,8 +333,7 @@ echo "#%&-=***=-&%#" >> small.txt
   Lm (Letter, Modifier)
   Nd (Number, Decimal Digit)
   Pc (Punctuation, Connector)
-  This category includes ten characters, the most commonly used of which is the LOWLINE character (_), u+005F.
-  If ECMAScript-compliant behavior is specified, \w is equivalent to [a-zA-Z0-9].
+    + This category includes ten characters, the most commonly used of which is the LOWLINE character (_), u+005F.
   ~~~~
   - The **\d** metacharacter corresponds to all **“number”** characters.
     + Note: **\d** only works on Mac. For Linux, use [0-9].
