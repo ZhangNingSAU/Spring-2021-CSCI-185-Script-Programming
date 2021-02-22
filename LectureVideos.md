@@ -21,3 +21,7 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/198613318
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/e50a8b8fb0df4614a882a54d5cfa4fed/playback
 ## Wednesday 02/17/2021
 Quiz 1, no class.
+
+# Week 5
+## Monday 02/22/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/dbe20308e2b6429f9c8fe9d3a922632b/playback
