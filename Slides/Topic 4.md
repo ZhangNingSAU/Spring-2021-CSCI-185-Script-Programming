@@ -322,6 +322,20 @@ echo "#%&-=***=-&%#" >> small.txt
 
 + Let’s take a look at regular expressions for describing sets of characters.
   - The **\w** metacharacter corresponds to all **“word”** characters.
+  ~~~~
+  Word Character: \w
+  \w matches any word character. A word character is a member of any of the Unicode categories listed in the following table.
+
+  Ll (Letter, Lowercase)
+  Lu (Letter, Uppercase)
+  Lt (Letter, Titlecase)
+  Lo (Letter, Other)
+  Lm (Letter, Modifier)
+  Nd (Number, Decimal Digit)
+  Pc (Punctuation, Connector)
+  This category includes ten characters, the most commonly used of which is the LOWLINE character (_), u+005F.
+  If ECMAScript-compliant behavior is specified, \w is equivalent to [a-zA-Z0-9].
+  ~~~~
   - The **\d** metacharacter corresponds to all **“number”** characters.
     + Note: **\d** only works on Mac. For Linux, use [0-9].
   - The **\s** metacharacter corresponds to all **“space”** characters.
