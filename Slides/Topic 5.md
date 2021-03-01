@@ -36,6 +36,7 @@
 + Let’s add **alias shbp="cat ∼/.bash\_profile"** to the end of **∼/.bash\_profile** file
   - **Warning**: use append(>>) not overwrite(>).
   - **Note**: It is better to use text editor(vi for example) to edit the **∼/.bash\_profile** file or **∼/.profile** file.
+  - **Note**: We can create a copy of the **∼/.bash\_profile** file or **∼/.profile** file file (cp ∼/.bash\_profile ∼/.bash\_profile.backup or cp ∼/.profile ∼/.profile.backup).
   - **Note**: No space before or after =.
 + The alias creates a new command **shbp**.
 
