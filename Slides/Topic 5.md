@@ -20,7 +20,7 @@
 ## for mac
 + Besides ∼/.bash\_history, another text file in our home directory that we should be aware of is **∼/.bash\_profile**.
 ## for linux
-+ Besides ∼/.bash history, another text file in our home directory that we should be aware of is **∼/.profile**.
++ Besides ∼/.bash\_history, another text file in our home directory that we should be aware of is **∼/.profile**.
 
 ## For the following examples, I will use MAC( **∼/.bash\_profile** ), replace  **∼/.bash\_profile** with **∼/.profile** if you use linux.
 
