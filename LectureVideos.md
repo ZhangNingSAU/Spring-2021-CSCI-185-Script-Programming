@@ -25,3 +25,9 @@ Quiz 1, no class.
 # Week 5
 ## Monday 02/22/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/dbe20308e2b6429f9c8fe9d3a922632b/playback
+## Wednesday 02/24/2021
+no class
+
+# Week 6
+## Monday 03/01/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/a681d68dd3e641a9985096b288d06287/playback
