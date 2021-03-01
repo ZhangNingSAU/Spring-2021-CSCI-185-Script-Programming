@@ -1,4 +1,4 @@
-# CSCI 185 Spring 20021
+# CSCI 185 Spring 2021
 # Dr. Ning Zhang
 # Topic 5: Advanced Unix Tools
 
