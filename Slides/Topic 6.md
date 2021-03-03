@@ -1,4 +1,4 @@
-# CSCI 185 Spring 2020
+# CSCI 185 Spring 2021
 # Dr. Ning Zhang
 # Topic 6: VI/VIM, make and makefile
 # Part I: VI/VIM Text Editor
