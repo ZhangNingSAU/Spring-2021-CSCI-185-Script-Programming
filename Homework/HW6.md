@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2020
+# CSCI 185 Spring 2021
 # Homework 6
-# Start: 02/26/2020
-# Due: 03/04/2020
+
+# Due: 11:59 PM 03/15/2020
 
 # Step 1: Please use the correct Unix commands and VI/VIM to complete the following four tasks in your terminal:
 # Q1: Create a new folder named csci185hw_6 and cd to this new folder. 
