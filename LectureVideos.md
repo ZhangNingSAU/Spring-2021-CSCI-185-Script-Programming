@@ -31,3 +31,9 @@ no class
 # Week 6
 ## Monday 03/01/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/a681d68dd3e641a9985096b288d06287/playback
+## Wednesday 03/03/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/112ef225fc0d44dbba79153bf447d730
+
+# Week 7
+## Monday 03/08/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/d68dab99444f4639ad32756f5a035fab/playback
