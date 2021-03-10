@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2020
+# CSCI 185 Spring 2021
 # Homework 7
-# Start: 02/28/2020
-# Due: 03/06/2020
+
+# Due: 11:59pm 03/17/2020
 
 # Step 1: Use VI to create a shell script:
 # Q1: Write expressions/code to calculate the following arithmatic expressions and print/echo each result.
