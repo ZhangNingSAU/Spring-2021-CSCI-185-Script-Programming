@@ -4,7 +4,7 @@
 # Due: 11:59pm 03/17/2020
 
 # Step 1: Use VI to create a shell script:
-# Q1: Write expressions/code to calculate the following arithmatic expressions and print/echo each result.
+# Q1: Write expressions to calculate the following arithmatic expressions and print/echo each result.
 + 10.2 + 3.5
 + 10.2 - 3.5
 + 10.2 * 3.5
