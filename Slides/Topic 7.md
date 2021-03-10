@@ -101,7 +101,8 @@ num2=10
 echo $num1
 echo $num1+$num2
 # use the existing variable(s) to define a new variable
-$num3=$num2+1
+num3=$num2+1
+echo $num3
 ~~~~
 
 
